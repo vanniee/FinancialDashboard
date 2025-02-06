@@ -31,7 +31,7 @@ This HR Workforce Insights Dashboard provides a comprehensive view of employee d
 
 <p align="center">
 📌 **💻 View Interactive Report** <br/>
-<img src="Supplier Defect Dashboard.pdf" height="80%" width="80%" alt="Power BI Dashboard"/>
+<img src="Hr Dashboard.pbix" height="80%" width="80%" alt="Power BI Dashboard"/>
 </p>  
 
 
